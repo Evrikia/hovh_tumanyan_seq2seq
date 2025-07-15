@@ -1,8 +1,6 @@
 
 # 📝 Seq2Seq Dataset: Hovhannes Tumanyan's Poems
 
-## You can find the dataset [here](https://huggingface.co/datasets/EdUarD0110/hovh_tumanyan_seq2seq)
-
 This dataset contains sentence pairs extracted from the poetic works of **Hovhannes Tumanyan**, one of the most celebrated Armenian poets. It is formatted for training **sequence-to-sequence (Seq2Seq)** models for tasks such as:
 
 * Text generation
